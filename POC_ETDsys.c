@@ -1,4 +1,4 @@
-//This is POC to crash windows 11 10.0.22526 which have etd.sys 
+//This is POC to crash windows 11 10.0.22526 which have etd.sys version 24.1.21.124 still unpatched
 
 #include <Windows.h>
 #include <stdio.h>
